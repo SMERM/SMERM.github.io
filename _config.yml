@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://smerm.github.io
-title: SMERM
-subtitle: Scuola di Musica Elettronica del Conservatorio Santa Cecilia di Roma.
-author: Giuseppe Silvi
+url: http://yoursite.com
+title: My Octopress Blog
+subtitle: A blogging framework for hackers.
+author: Your Name
 simple_search: https://www.google.com/search
 description:
 
