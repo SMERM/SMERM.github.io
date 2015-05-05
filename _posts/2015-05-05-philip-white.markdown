@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "ＰＨＩＬＩＰ ＷＨＩＴＥ"
-date:   2015_05_05 15:18:54
-description: Incontro estemporaneo con il compositore ＰＨＩＬＩＰ ＷＨＩＴＥ
+title:  "PHILIP WHITE"
+date:   2015-05-05 15:18:54
+description: Incontro estemporaneo con il compositore PHILIP WHITE.
 categories:
 - blog
-permalink: sample-post
+permalink: philip-white
 ---
 
 Conservatorio Santa Cecilia, Roma
