@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About We
+title: About US
 permalink: /about/
 ---
 
 Hi, we are nerds.
 
-### Contact me
+### Contacts
 
 Follow us on [Github][github].
