@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "EMUFest / call for works"
+date:   2015-04-16 15:18:54
+description: Call for works, International Electroacoustic Music Festival.
+categories:
+- emufest
+permalink: emufest2015
+---
+
+Aperto il bando per opere per l'ottava edizione di EMUFest, il festival di musica elettronica
+del Conservatorio S. Cecilia di Roma.
+
+Il Festival si svolgerà a settembre 2015, dal 20 al 26.
+
+[*passer à l'acte*](http://www.emufest.org/emufest2015/)
+
+[Qui il link al bando](http://www.emufest.org/articles/callforworks/)
