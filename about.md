@@ -8,4 +8,4 @@ Hi, we are nerds.
 
 ### Contacts
 
-Follow us on [Github](http://github.com/smerm).
+Follow us on [GitHub](http://github.com/smerm).
