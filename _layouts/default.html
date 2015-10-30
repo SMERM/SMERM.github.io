@@ -16,6 +16,13 @@
         <script async src="{{ site.baseurl }}/assets/js/modernizr.js"></script>    
         
         <script src="{{ site.url }}/assets/js/all.js"></script>    
+        
+        <script>
+          ((window.gitter = {}).chat = {}).options = {
+          room: 'SMERM/smerm.github.io'
+          };
+        </script>
+        <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
 
         <!-- IE Fixes -->
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -63,8 +70,7 @@
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <!-- When no internet load JQuery from local -->
         <script>window.jQuery || document.write('<script src="{{ site.baseurl }}/assets/js/jquery.min.js"><\/script>')</script>
-        <!-- Site js -->
-        
+              
         <!-- Google analytics  -->
         {% include google-analytics.html %}
     </body>        
